@@ -1,6 +1,16 @@
 @charset "UTF-8";
+div {
+    text-align: center;
+    margin: auto;
+}
+
+a {
+    text-align: center;
+}
+
 body {
     background-color: rgb(44, 43, 43); 
+    text-align: center;
 }
 h1 {
     text-align: center;
