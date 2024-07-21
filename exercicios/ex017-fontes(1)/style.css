@@ -4,8 +4,8 @@
 @font-face {
     font-family: 'Fgirl';
     src: 
-        url('fontes/Filxgirl.TTF') format('truetype'), 
-        url("fontes/Filxgirl.TTF") format('opentype');
+        url("fontes/Filxgirl.TTF") format("truetype"), 
+        url("fontes/Filxgirl.TTF") format("opentype");
     font-weight: normal;
     font-style: normal;
 body {
