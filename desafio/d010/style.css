@@ -13,12 +13,21 @@
     padding: 0px;
 }
 
+
+:root {
+    --cor1: black;
+
+
+
+}
+
+
 body {
     background-color: rgb(47, 255, 220);
 }
 
 header {
-    background-image: linear-gradient(180deg, #15e242, #128a0a, #072e04);
+    background-image: linear-gradient(to bottom, blue, red);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     color: white;
